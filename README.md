@@ -4,12 +4,8 @@
 * Dave Wade-Stein
 * __`instructor.dws@gmail.com`__
 
-## Introductions
-* name
-* geographic location
-* job title
-* Python (or other) programming background
-* fun fact (or streaming TV recommendation)
+## Lunch break
+* 11:30-12:30 Pacific
 
 ## How to follow along
 1. you've installed Python (https://www.python.org/) and Visual Studio Code (https://code.visualstudio.com/)
