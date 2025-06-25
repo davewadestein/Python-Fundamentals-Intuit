@@ -11,3 +11,8 @@
 * Python (or other) programming background
 * fun fact (or streaming TV recommendation)
 
+## How to follow along
+1. you've installed Python (https://www.python.org/) and Visual Studio Code (https://code.visualstudio.com/)
+  * OR...
+2. Google Colaboratory (https://colab.research.google.com/)
+
