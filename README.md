@@ -1,5 +1,8 @@
 # Python-Fundamentals-Intuit
 
+## 1-question poll
+* https://xoyondo.com/op/h5mqhyhtyt2ay6n
+
 ## Me
 * Dave Wade-Stein
 * __`instructor.dws@gmail.com`__
