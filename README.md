@@ -1,7 +1,8 @@
 # Python-Fundamentals-Intuit
 
-## 1-question poll
-* https://xoyondo.com/op/h5mqhyhtyt2ay6n
+## Friday 1-question polls
+* https://xoyondo.com/op/goz96am5fyammve
+* https://xoyondo.com/op/dfb6vdupye5qt6a
 
 ## Me
 * Dave Wade-Stein
