@@ -18,3 +18,6 @@
 
 ## Resources
 * [Python tutor code visualizer](https://pythontutor.com/)
+
+## ChatGPT Prompts
+* I'm learning to code and while I am able to take a series of english steps and turn them into code, I find it difficult to write down the steps to solve a problem. That is, I find it difficult to introspect into my brain and determine how *I* solve a problem. Any tips for that?
