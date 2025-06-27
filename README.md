@@ -1,5 +1,8 @@
 # Python-Fundamentals-Intuit
 
+## Intuit Course Evaluation Survey
+* https://forms.gle/Ei97ZvoKzur3nq7Y7
+
 ## Friday 1-question polls
 * https://xoyondo.com/op/goz96am5fyammve
 * https://xoyondo.com/op/dfb6vdupye5qt6a
